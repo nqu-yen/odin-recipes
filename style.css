@@ -3,5 +3,9 @@ body {
 }
 
 .logo {
-    text-align: center;
+    font-size: 48px;
+}
+
+.recipe.list {
+    list-style-type: none;
 }
