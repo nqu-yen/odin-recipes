@@ -6,8 +6,13 @@ body {
 
 .logo {
     font-size: 48px;
+    text-decoration: underline;
 }
 
 .recipe.list {
     list-style-type: none;
+}
+
+.recipe-header {
+    font-size: 40px;
 }
